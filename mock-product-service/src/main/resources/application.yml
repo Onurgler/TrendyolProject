@@ -1,0 +1,7 @@
+server:
+  port : 8081
+spring:
+  kafka:
+    topic:
+      product-price-change: PRODUCT-PRICE-CHANGE
+      product-stock-change: PRODUCT-STOCK-CHANGE

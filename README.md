@@ -1,2 +1,2 @@
 # TrendyolProject
-Trendyol Bireysel Proje
+ Trendyol Bireysel Proje

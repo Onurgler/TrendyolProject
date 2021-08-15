@@ -1,0 +1,7 @@
+spring:
+  kafka:
+    topic:
+      product-price-change-notification: PRODUCT-PRICE-CHANGE-NOTIFICATION
+      product-stock-change-notification: PRODUCT-STOCK-CHANGE-NOTIFICATION
+server:
+  port : 8082
